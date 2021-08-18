@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryantran4
-- 👀 I’m interested in all things technology! Specifically, software and hardware.
+- 👀 I’m interested in all things technology (IT, HardWare, Software)! 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on all projects!
 - 📫 How to reach me 
